@@ -1,0 +1,6 @@
+#ifndef _CATALOG_VERSION_H_
+#define _CATALOG_VERSION_H_
+
+#define CATALOG_VERSION 1
+
+#endif /* _CATALOG_VERSION_H_ */

@@ -1,0 +1,207 @@
+;
+; WiFi Preferences catalog descriptor
+;
+MSG_DESCRIPTION (//)
+Connect to a wireless network
+;
+MSG_WIN_MAIN (//)
+Wireless Networks
+;
+MSG_WIN_DETAILS (//)
+Connection Details
+;
+MSG_WIN_PASSWORD (//)
+Password
+;
+MSG_COL_NETWORK (//)
+Network
+;
+MSG_COL_SECURITY (//)
+Security
+;
+MSG_COL_SIGNAL (//)
+Signal
+;
+MSG_COL_CHANNEL (//)
+Ch
+;
+MSG_GRP_WIRELESS (//)
+Wireless
+;
+MSG_GRP_NETWORK (//)
+Network
+;
+MSG_LAB_DEVICE (//)
+Device:
+;
+MSG_LAB_NETWORK (//)
+Network:
+;
+MSG_LAB_SECURITY (//)
+Security:
+;
+MSG_LAB_AP (//)
+Access point:
+;
+MSG_LAB_MAC (//)
+Hardware address:
+;
+MSG_LAB_INTERFACE (//)
+Interface:
+;
+MSG_LAB_ADDRESS (//)
+IP address:
+;
+MSG_LAB_NETMASK (//)
+Subnet mask:
+;
+MSG_LAB_BROADCAST (//)
+Broadcast:
+;
+MSG_LAB_ROUTER (//)
+Router:
+;
+MSG_LAB_DNS (//)
+DNS:
+;
+MSG_LAB_PASSWORD (//)
+Password:
+;
+MSG_BTN_SCAN (//)
+_Scan
+;
+MSG_BTN_DETAILS (//)
+_Details
+;
+MSG_BTN_DISCONNECT (//)
+Disconnec_t
+;
+MSG_BTN_CONNECT (//)
+_Connect
+;
+MSG_BTN_OK (//)
+_OK
+;
+MSG_BTN_CANCEL (//)
+_Cancel
+;
+MSG_NO_DEVICE (//)
+(no wireless device)
+;
+MSG_PASSWORD_FOR (//)
+Password for "%s":
+;
+MSG_STARTING (//)
+Starting...
+;
+MSG_SCANNING (//)
+Scanning...
+;
+MSG_CONNECTING (//)
+Connecting to %s...
+;
+MSG_DISCONNECTING (//)
+Disconnecting...
+;
+MSG_SELECT_FIRST (//)
+Select a network first
+;
+MSG_CANCELLED (//)
+Cancelled
+;
+MSG_ERR_NOMEM (//)
+Out of memory\n
+;
+MSG_ERR_WORKER_START (//)
+Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED (//)
+Worker process failed to start\n
+;
+MSG_ERR_APPLICATION (//)
+Cannot create the application\n
+;
+MSG_ERR_WINDOW (//)
+Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR (//)
+No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS (//)
+No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE (//)
+No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN (//)
+Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK (//)
+a network
+;
+MSG_ST_CONNECTED (//)
+Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS (//)
+Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK (//)
+Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING (//)
+Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS (//)
+%s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED (//)
+Not connected
+;
+MSG_ST_OUT_OF_MEMORY (//)
+Out of memory
+;
+MSG_ST_ONE_NETWORK (//)
+1 network found
+;
+MSG_ST_NETWORKS (//)
+%ld networks found
+;
+MSG_ST_SCAN_FAILED (//)
+Scan failed
+;
+MSG_ST_WM_NO_STOP (//)
+WirelessManager will not stop
+;
+MSG_ST_WM_NO_START (//)
+WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE (//)
+Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK (//)
+Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START (//)
+Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD (//)
+Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT (//)
+Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED (//)
+No network selected
+;
+MSG_ST_NOT_IN_RANGE (//)
+%s is not in range
+;
+MSG_ST_ENTER_PASSWORD (//)
+Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS (//)
+Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED (//)
+Disconnected
+;

@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language euskara
+## codeset 0
+;
+MSG_DESCRIPTION
+Konektatu hari gabeko sare batera
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Hari gabeko sareak
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Konexioaren xehetasunak
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Pasahitza
+; Password
+;
+MSG_COL_NETWORK
+Sarea
+; Network
+;
+MSG_COL_SECURITY
+Segurtasuna
+; Security
+;
+MSG_COL_SIGNAL
+Seinalea
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Hari gabea
+; Wireless
+;
+MSG_GRP_NETWORK
+Sarea
+; Network
+;
+MSG_LAB_DEVICE
+Gailua:
+; Device:
+;
+MSG_LAB_NETWORK
+Sarea:
+; Network:
+;
+MSG_LAB_SECURITY
+Segurtasuna:
+; Security:
+;
+MSG_LAB_AP
+Sarbide-puntua:
+; Access point:
+;
+MSG_LAB_MAC
+Hardware-helbidea:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Interfazea:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP helbidea:
+; IP address:
+;
+MSG_LAB_NETMASK
+Azpisare-maskara:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Difusioa:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Bideratzailea:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Pasahitza:
+; Password:
+;
+MSG_BTN_SCAN
+_Bilatu
+; _Scan
+;
+MSG_BTN_DETAILS
+_Xehetasunak
+; _Details
+;
+MSG_BTN_DISCONNECT
+_Deskonektatu
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Konektatu
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Utzi
+; _Cancel
+;
+MSG_NO_DEVICE
+(hari gabeko gailurik ez)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+"%s" sarearen pasahitza:
+; Password for "%s":
+;
+MSG_STARTING
+Abiarazten...
+; Starting...
+;
+MSG_SCANNING
+Bilatzen...
+; Scanning...
+;
+MSG_CONNECTING
+%s sarera konektatzen...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Deskonektatzen...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Hautatu sare bat lehenik
+; Select a network first
+;
+MSG_CANCELLED
+Utzita
+; Cancelled
+;
+MSG_ERR_NOMEM
+Memoriarik ez\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Ezin da langile-prozesua abiarazi\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Langile-prozesua ez da abiarazi\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Ezin da aplikazioa sortu\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Ezin da leihoa ireki\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+Ez dago hari gabeko gailurik sare-hobespenetan
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+DEVS:Networks ez da aurkitu
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Hari gabeko gailurik ez DEVS:Networks barruan
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Ezin da %s ireki, %ld unitatea
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+sare batera
+; a network
+;
+MSG_ST_CONNECTED
+%s sarera konektatuta - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+%s sarera konektatuta - baina %s gailuak ez du interfazerik sare-hobespenetan
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+%s sarera konektatuta - AROSTCP ez dabil
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+%s sarera konektatuta - helbide baten zain
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s ez da hari gabeko gailua
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Konektatu gabe
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Memoriarik ez
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+Sare 1 aurkitu da
+; 1 network found
+;
+MSG_ST_NETWORKS
+%ld sare aurkitu dira
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Bilaketak huts egin du
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager ez da gelditzen
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager ez da abiarazten
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+%s sarera konektatuta - baina %s gailuak ez du interfazerik
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+%s sarera konektatuta - berrabiarazi AROSTCP %s erabiltzeko
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+%s sarera konektatuta - baina AROSTCP ez da abiarazi
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+%s sarearen pasahitza okerra da?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Ezin izan da %s sarera konektatu
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Ez da sarerik hautatu
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s ez dago irismenean
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Sartu %s sarearen pasahitza
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Ezin da Wireless.prefs idatzi
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Deskonektatuta
+; Disconnected
+;

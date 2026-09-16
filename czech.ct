@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language czech
+## codeset 5
+;
+MSG_DESCRIPTION
+Pøipojit se k bezdrátové síti
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Bezdrátové sítì
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Podrobnosti pøipojení
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Heslo
+; Password
+;
+MSG_COL_NETWORK
+Sí»
+; Network
+;
+MSG_COL_SECURITY
+Zabezpeèení
+; Security
+;
+MSG_COL_SIGNAL
+Signál
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Bezdrátové
+; Wireless
+;
+MSG_GRP_NETWORK
+Sí»
+; Network
+;
+MSG_LAB_DEVICE
+Zaøízení:
+; Device:
+;
+MSG_LAB_NETWORK
+Sí»:
+; Network:
+;
+MSG_LAB_SECURITY
+Zabezpeèení:
+; Security:
+;
+MSG_LAB_AP
+Pøístupový bod:
+; Access point:
+;
+MSG_LAB_MAC
+Hardwarová adresa:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Rozhraní:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP adresa:
+; IP address:
+;
+MSG_LAB_NETMASK
+Maska podsítì:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+V¹esmìrová:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Smìrovaè:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Heslo:
+; Password:
+;
+MSG_BTN_SCAN
+_Hledat
+; _Scan
+;
+MSG_BTN_DETAILS
+_Podrobnosti
+; _Details
+;
+MSG_BTN_DISCONNECT
+_Odpojit
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Pøipojit
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Zru¹it
+; _Cancel
+;
+MSG_NO_DEVICE
+(¾ádné bezdrátové zaøízení)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+Heslo pro "%s":
+; Password for "%s":
+;
+MSG_STARTING
+Spou¹tìní...
+; Starting...
+;
+MSG_SCANNING
+Hledání...
+; Scanning...
+;
+MSG_CONNECTING
+Pøipojování k %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Odpojování...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Nejprve vyberte sí»
+; Select a network first
+;
+MSG_CANCELLED
+Zru¹eno
+; Cancelled
+;
+MSG_ERR_NOMEM
+Nedostatek pamìti\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Nelze spustit pracovní proces\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Pracovní proces se nespustil\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Nelze vytvoøit aplikaci\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Nelze otevøít okno\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+V nastavení sítì není zvoleno bezdrátové zaøízení
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+DEVS:Networks nenalezeno
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+®ádné bezdrátové zaøízení v DEVS:Networks
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Nelze otevøít %s jednotka %ld
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+síti
+; a network
+;
+MSG_ST_CONNECTED
+Pøipojeno k %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Pøipojeno k %s - ale %s nemá rozhraní v nastavení sítì
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Pøipojeno k %s - AROSTCP nebì¾í
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Pøipojeno k %s - èeká se na adresu
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s není bezdrátové zaøízení
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Nepøipojeno
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Nedostatek pamìti
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+Nalezena 1 sí»
+; 1 network found
+;
+MSG_ST_NETWORKS
+Nalezeno sítí: %ld
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Hledání selhalo
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager se nezastaví
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager se nespustí
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Pøipojeno k %s - ale %s nemá rozhraní
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Pøipojeno k %s - restartujte AROSTCP pro pou¾ití %s
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Pøipojeno k %s - ale AROSTCP se nespustil
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+©patné heslo pro %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Nepodaøilo se pøipojit k %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Není vybrána ¾ádná sí»
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s není v dosahu
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Zadejte heslo pro %s
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Nelze zapsat Wireless.prefs
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Odpojeno
+; Disconnected
+;

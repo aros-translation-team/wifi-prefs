@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language polski
+## codeset 5
+;
+MSG_DESCRIPTION
+Po³±cz z sieci± bezprzewodow±
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Sieci bezprzewodowe
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Szczegó³y po³±czenia
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Has³o
+; Password
+;
+MSG_COL_NETWORK
+Sieæ
+; Network
+;
+MSG_COL_SECURITY
+Zabezpieczenie
+; Security
+;
+MSG_COL_SIGNAL
+Sygna³
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Bezprzewodowe
+; Wireless
+;
+MSG_GRP_NETWORK
+Sieæ
+; Network
+;
+MSG_LAB_DEVICE
+Urz±dzenie:
+; Device:
+;
+MSG_LAB_NETWORK
+Sieæ:
+; Network:
+;
+MSG_LAB_SECURITY
+Zabezpieczenie:
+; Security:
+;
+MSG_LAB_AP
+Punkt dostêpowy:
+; Access point:
+;
+MSG_LAB_MAC
+Adres sprzêtowy:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Interfejs:
+; Interface:
+;
+MSG_LAB_ADDRESS
+Adres IP:
+; IP address:
+;
+MSG_LAB_NETMASK
+Maska podsieci:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Rozg³oszeniowy:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Router:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Has³o:
+; Password:
+;
+MSG_BTN_SCAN
+_Szukaj
+; _Scan
+;
+MSG_BTN_DETAILS
+_Szczegó³y
+; _Details
+;
+MSG_BTN_DISCONNECT
+_Roz³±cz
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Po³±cz
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Anuluj
+; _Cancel
+;
+MSG_NO_DEVICE
+(brak urz±dzenia bezprzewodowego)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+Has³o do "%s":
+; Password for "%s":
+;
+MSG_STARTING
+Uruchamianie...
+; Starting...
+;
+MSG_SCANNING
+Szukanie...
+; Scanning...
+;
+MSG_CONNECTING
+£±czenie z %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Roz³±czanie...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Najpierw wybierz sieæ
+; Select a network first
+;
+MSG_CANCELLED
+Anulowano
+; Cancelled
+;
+MSG_ERR_NOMEM
+Brak pamiêci\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Nie mo¿na uruchomiæ procesu roboczego\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Proces roboczy nie wystartowa³\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Nie mo¿na utworzyæ aplikacji\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Nie mo¿na otworzyæ okna\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+W ustawieniach sieci nie wskazano urz±dzenia bezprzewodowego
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+Nie znaleziono DEVS:Networks
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Brak urz±dzenia bezprzewodowego w DEVS:Networks
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Nie mo¿na otworzyæ %s jednostka %ld
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+sieci±
+; a network
+;
+MSG_ST_CONNECTED
+Po³±czono z %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Po³±czono z %s - ale %s nie ma interfejsu w ustawieniach sieci
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Po³±czono z %s - AROSTCP nie dzia³a
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Po³±czono z %s - oczekiwanie na adres
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s nie jest urz±dzeniem bezprzewodowym
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Nie po³±czono
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Brak pamiêci
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+Znaleziono 1 sieæ
+; 1 network found
+;
+MSG_ST_NETWORKS
+Znaleziono sieci: %ld
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Szukanie nie powiod³o siê
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager nie chce siê zatrzymaæ
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager nie chce siê uruchomiæ
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Po³±czono z %s - ale %s nie ma interfejsu
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Po³±czono z %s - uruchom ponownie AROSTCP, aby u¿yæ %s
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Po³±czono z %s - ale AROSTCP nie wystartowa³
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+B³êdne has³o do %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Nie uda³o siê po³±czyæ z %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Nie wybrano sieci
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s jest poza zasiêgiem
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Podaj has³o do %s
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Nie mo¿na zapisaæ Wireless.prefs
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Roz³±czono
+; Disconnected
+;

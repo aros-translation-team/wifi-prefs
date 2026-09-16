@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language magyar
+## codeset 5
+;
+MSG_DESCRIPTION
+Csatlakozás vezeték nélküli hálózathoz
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Vezeték nélküli hálózatok
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Kapcsolat részletei
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Jelszó
+; Password
+;
+MSG_COL_NETWORK
+Hálózat
+; Network
+;
+MSG_COL_SECURITY
+Biztonság
+; Security
+;
+MSG_COL_SIGNAL
+Jel
+; Signal
+;
+MSG_COL_CHANNEL
+Csat.
+; Ch
+;
+MSG_GRP_WIRELESS
+Vezeték nélküli
+; Wireless
+;
+MSG_GRP_NETWORK
+Hálózat
+; Network
+;
+MSG_LAB_DEVICE
+Eszköz:
+; Device:
+;
+MSG_LAB_NETWORK
+Hálózat:
+; Network:
+;
+MSG_LAB_SECURITY
+Biztonság:
+; Security:
+;
+MSG_LAB_AP
+Hozzáférési pont:
+; Access point:
+;
+MSG_LAB_MAC
+Hardvercím:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Csatoló:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP-cím:
+; IP address:
+;
+MSG_LAB_NETMASK
+Alhálózati maszk:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Szórási cím:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Útválasztó:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Jelszó:
+; Password:
+;
+MSG_BTN_SCAN
+_Keresés
+; _Scan
+;
+MSG_BTN_DETAILS
+_Részletek
+; _Details
+;
+MSG_BTN_DISCONNECT
+_Bontás
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Csatlakozás
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Mégse
+; _Cancel
+;
+MSG_NO_DEVICE
+(nincs vezeték nélküli eszköz)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+A(z) "%s" jelszava:
+; Password for "%s":
+;
+MSG_STARTING
+Indítás...
+; Starting...
+;
+MSG_SCANNING
+Keresés...
+; Scanning...
+;
+MSG_CONNECTING
+Csatlakozás ehhez: %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Bontás...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Elõbb válasszon hálózatot
+; Select a network first
+;
+MSG_CANCELLED
+Megszakítva
+; Cancelled
+;
+MSG_ERR_NOMEM
+Elfogyott a memória\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+A munkafolyamat nem indítható\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+A munkafolyamat nem indult el\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Az alkalmazás nem hozható létre\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Az ablak nem nyitható meg\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+A hálózati beállításokban nincs vezeték nélküli eszköz
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+A DEVS:Networks nem található
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Nincs vezeték nélküli eszköz a DEVS:Networks alatt
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+A(z) %s %ld egysége nem nyitható meg
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+egy hálózathoz
+; a network
+;
+MSG_ST_CONNECTED
+Csatlakozva ehhez: %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Csatlakozva ehhez: %s - de a(z) %s eszköznek nincs csatolója a hálózati beállításokban
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Csatlakozva ehhez: %s - az AROSTCP nem fut
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Csatlakozva ehhez: %s - várakozás címre
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+A(z) %s nem vezeték nélküli eszköz
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Nincs kapcsolat
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Elfogyott a memória
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+1 hálózat található
+; 1 network found
+;
+MSG_ST_NETWORKS
+%ld hálózat található
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+A keresés sikertelen
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+A WirelessManager nem áll le
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+A WirelessManager nem indul el
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Csatlakozva ehhez: %s - de a(z) %s eszköznek nincs csatolója
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Csatlakozva ehhez: %s - indítsa újra az AROSTCP-t a(z) %s használatához
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Csatlakozva ehhez: %s - de az AROSTCP nem indult el
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+Hibás jelszó ehhez: %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Nem sikerült csatlakozni ehhez: %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Nincs kiválasztott hálózat
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+A(z) %s nincs hatótávolságon belül
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Adja meg a(z) %s jelszavát
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+A Wireless.prefs nem írható
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Kapcsolat bontva
+; Disconnected
+;

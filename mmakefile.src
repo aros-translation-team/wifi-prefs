@@ -2,5 +2,11 @@
 
 include $(SRCDIR)/config/aros.cfg
 
+CATALOGS := basque catalan croatian czech danish dutch \
+    finnish french german hungarian italian norwegian \
+    polish portuguese russian serbian spanish swedish \
+    turkish
+
 %build_catalogs mmake=workbench-prefs-wifi-catalogs \
+                catalogs=$(CATALOGS) \
                 name=WiFi subdir=System/Prefs

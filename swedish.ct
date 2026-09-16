@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language svenska
+## codeset 0
+;
+MSG_DESCRIPTION
+Anslut till ett trådlöst nätverk
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Trådlösa nätverk
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Anslutningsdetaljer
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Lösenord
+; Password
+;
+MSG_COL_NETWORK
+Nätverk
+; Network
+;
+MSG_COL_SECURITY
+Säkerhet
+; Security
+;
+MSG_COL_SIGNAL
+Signal
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Trådlöst
+; Wireless
+;
+MSG_GRP_NETWORK
+Nätverk
+; Network
+;
+MSG_LAB_DEVICE
+Enhet:
+; Device:
+;
+MSG_LAB_NETWORK
+Nätverk:
+; Network:
+;
+MSG_LAB_SECURITY
+Säkerhet:
+; Security:
+;
+MSG_LAB_AP
+Åtkomstpunkt:
+; Access point:
+;
+MSG_LAB_MAC
+Hårdvaruadress:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Gränssnitt:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP-adress:
+; IP address:
+;
+MSG_LAB_NETMASK
+Nätmask:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Broadcast:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Router:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Lösenord:
+; Password:
+;
+MSG_BTN_SCAN
+_Sök
+; _Scan
+;
+MSG_BTN_DETAILS
+_Detaljer
+; _Details
+;
+MSG_BTN_DISCONNECT
+Koppla _från
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Anslut
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Avbryt
+; _Cancel
+;
+MSG_NO_DEVICE
+(ingen trådlös enhet)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+Lösenord för "%s":
+; Password for "%s":
+;
+MSG_STARTING
+Startar...
+; Starting...
+;
+MSG_SCANNING
+Söker...
+; Scanning...
+;
+MSG_CONNECTING
+Ansluter till %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Kopplar från...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Välj ett nätverk först
+; Select a network first
+;
+MSG_CANCELLED
+Avbruten
+; Cancelled
+;
+MSG_ERR_NOMEM
+Slut på minne\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Kan inte starta arbetsprocessen\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Arbetsprocessen startade inte\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Kan inte skapa programmet\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Kan inte öppna fönstret\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+Ingen trådlös enhet vald i nätverksinställningarna
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+Hittade inte DEVS:Networks
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Ingen trådlös enhet i DEVS:Networks
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Kan inte öppna %s enhet %ld
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+ett nätverk
+; a network
+;
+MSG_ST_CONNECTED
+Ansluten till %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Ansluten till %s - men %s har inget gränssnitt i nätverksinställningarna
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Ansluten till %s - AROSTCP körs inte
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Ansluten till %s - väntar på en adress
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s är inte en trådlös enhet
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Inte ansluten
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Slut på minne
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+1 nätverk hittat
+; 1 network found
+;
+MSG_ST_NETWORKS
+%ld nätverk hittade
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Sökningen misslyckades
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager stannar inte
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager startar inte
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Ansluten till %s - men %s har inget gränssnitt
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Ansluten till %s - starta om AROSTCP för att använda %s
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Ansluten till %s - men AROSTCP startade inte
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+Fel lösenord för %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Kunde inte ansluta till %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Inget nätverk valt
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s är inte inom räckhåll
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Ange lösenordet för %s
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Kan inte skriva Wireless.prefs
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Frånkopplad
+; Disconnected
+;

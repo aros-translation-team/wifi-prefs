@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language nederlands
+## codeset 0
+;
+MSG_DESCRIPTION
+Verbinden met een draadloos netwerk
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Draadloze netwerken
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Verbindingsdetails
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Wachtwoord
+; Password
+;
+MSG_COL_NETWORK
+Netwerk
+; Network
+;
+MSG_COL_SECURITY
+Beveiliging
+; Security
+;
+MSG_COL_SIGNAL
+Signaal
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Draadloos
+; Wireless
+;
+MSG_GRP_NETWORK
+Netwerk
+; Network
+;
+MSG_LAB_DEVICE
+Apparaat:
+; Device:
+;
+MSG_LAB_NETWORK
+Netwerk:
+; Network:
+;
+MSG_LAB_SECURITY
+Beveiliging:
+; Security:
+;
+MSG_LAB_AP
+Toegangspunt:
+; Access point:
+;
+MSG_LAB_MAC
+Hardware-adres:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Interface:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP-adres:
+; IP address:
+;
+MSG_LAB_NETMASK
+Subnetmasker:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Broadcast:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Router:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Wachtwoord:
+; Password:
+;
+MSG_BTN_SCAN
+_Zoeken
+; _Scan
+;
+MSG_BTN_DETAILS
+_Details
+; _Details
+;
+MSG_BTN_DISCONNECT
+_Verbreken
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+Ver_binden
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Annuleren
+; _Cancel
+;
+MSG_NO_DEVICE
+(geen draadloos apparaat)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+Wachtwoord voor "%s":
+; Password for "%s":
+;
+MSG_STARTING
+Bezig met starten...
+; Starting...
+;
+MSG_SCANNING
+Bezig met zoeken...
+; Scanning...
+;
+MSG_CONNECTING
+Verbinden met %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Verbinding verbreken...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Kies eerst een netwerk
+; Select a network first
+;
+MSG_CANCELLED
+Geannuleerd
+; Cancelled
+;
+MSG_ERR_NOMEM
+Onvoldoende geheugen\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Kan het werkproces niet starten\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Het werkproces is niet gestart\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Kan de applicatie niet aanmaken\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Kan het venster niet openen\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+Geen draadloos apparaat ingesteld in de netwerkvoorkeuren
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+DEVS:Networks niet gevonden
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Geen draadloos apparaat in DEVS:Networks
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Kan %s unit %ld niet openen
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+een netwerk
+; a network
+;
+MSG_ST_CONNECTED
+Verbonden met %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Verbonden met %s - maar %s heeft geen interface in de netwerkvoorkeuren
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Verbonden met %s - AROSTCP draait niet
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Verbonden met %s - wacht op een adres
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s is geen draadloos apparaat
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Niet verbonden
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Onvoldoende geheugen
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+1 netwerk gevonden
+; 1 network found
+;
+MSG_ST_NETWORKS
+%ld netwerken gevonden
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Zoeken mislukt
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager stopt niet
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager start niet
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Verbonden met %s - maar %s heeft geen interface
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Verbonden met %s - herstart AROSTCP om %s te gebruiken
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Verbonden met %s - maar AROSTCP startte niet
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+Verkeerd wachtwoord voor %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Kon geen verbinding maken met %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Geen netwerk geselecteerd
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s is niet binnen bereik
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Voer het wachtwoord in voor %s
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Kan Wireless.prefs niet schrijven
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Verbinding verbroken
+; Disconnected
+;

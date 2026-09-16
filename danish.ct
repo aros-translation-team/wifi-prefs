@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language dansk
+## codeset 0
+;
+MSG_DESCRIPTION
+Opret forbindelse til et trådløst netværk
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Trådløse netværk
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Forbindelsesdetaljer
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Adgangskode
+; Password
+;
+MSG_COL_NETWORK
+Netværk
+; Network
+;
+MSG_COL_SECURITY
+Sikkerhed
+; Security
+;
+MSG_COL_SIGNAL
+Signal
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Trådløst
+; Wireless
+;
+MSG_GRP_NETWORK
+Netværk
+; Network
+;
+MSG_LAB_DEVICE
+Enhed:
+; Device:
+;
+MSG_LAB_NETWORK
+Netværk:
+; Network:
+;
+MSG_LAB_SECURITY
+Sikkerhed:
+; Security:
+;
+MSG_LAB_AP
+Adgangspunkt:
+; Access point:
+;
+MSG_LAB_MAC
+Hardwareadresse:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Grænseflade:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP-adresse:
+; IP address:
+;
+MSG_LAB_NETMASK
+Undernetmaske:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Broadcast:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Router:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Adgangskode:
+; Password:
+;
+MSG_BTN_SCAN
+_Søg
+; _Scan
+;
+MSG_BTN_DETAILS
+_Detaljer
+; _Details
+;
+MSG_BTN_DISCONNECT
+Afbry_d
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Forbind
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+_Annullér
+; _Cancel
+;
+MSG_NO_DEVICE
+(ingen trådløs enhed)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+Adgangskode til "%s":
+; Password for "%s":
+;
+MSG_STARTING
+Starter...
+; Starting...
+;
+MSG_SCANNING
+Søger...
+; Scanning...
+;
+MSG_CONNECTING
+Forbinder til %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Afbryder...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Vælg først et netværk
+; Select a network first
+;
+MSG_CANCELLED
+Annulleret
+; Cancelled
+;
+MSG_ERR_NOMEM
+Ikke mere hukommelse\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Kan ikke starte arbejdsprocessen\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Arbejdsprocessen startede ikke\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Kan ikke oprette programmet\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Kan ikke åbne vinduet\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+Ingen trådløs enhed valgt i netværksindstillingerne
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+Fandt ikke DEVS:Networks
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Ingen trådløs enhed i DEVS:Networks
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Kan ikke åbne %s enhed %ld
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+et netværk
+; a network
+;
+MSG_ST_CONNECTED
+Forbundet til %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Forbundet til %s - men %s har ingen grænseflade i netværksindstillingerne
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Forbundet til %s - AROSTCP kører ikke
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Forbundet til %s - venter på en adresse
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s er ikke en trådløs enhed
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Ikke forbundet
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Ikke mere hukommelse
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+1 netværk fundet
+; 1 network found
+;
+MSG_ST_NETWORKS
+%ld netværk fundet
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Søgningen mislykkedes
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager vil ikke stoppe
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager vil ikke starte
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Forbundet til %s - men %s har ingen grænseflade
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Forbundet til %s - genstart AROSTCP for at bruge %s
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Forbundet til %s - men AROSTCP startede ikke
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+Forkert adgangskode til %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Kunne ikke forbinde til %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Intet netværk valgt
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s er ikke inden for rækkevidde
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Indtast adgangskoden til %s
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Kan ikke skrive Wireless.prefs
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Afbrudt
+; Disconnected
+;

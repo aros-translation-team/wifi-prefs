@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language türkçe
+## codeset 12
+;
+MSG_DESCRIPTION
+Kablosuz bir aða baðlan
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Kablosuz aðlar
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Baðlantý ayrýntýlarý
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Parola
+; Password
+;
+MSG_COL_NETWORK
+Að
+; Network
+;
+MSG_COL_SECURITY
+Güvenlik
+; Security
+;
+MSG_COL_SIGNAL
+Sinyal
+; Signal
+;
+MSG_COL_CHANNEL
+Kan.
+; Ch
+;
+MSG_GRP_WIRELESS
+Kablosuz
+; Wireless
+;
+MSG_GRP_NETWORK
+Að
+; Network
+;
+MSG_LAB_DEVICE
+Aygýt:
+; Device:
+;
+MSG_LAB_NETWORK
+Að:
+; Network:
+;
+MSG_LAB_SECURITY
+Güvenlik:
+; Security:
+;
+MSG_LAB_AP
+Eriþim noktasý:
+; Access point:
+;
+MSG_LAB_MAC
+Donaným adresi:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Arayüz:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP adresi:
+; IP address:
+;
+MSG_LAB_NETMASK
+Alt að maskesi:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Yayýn:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Yönlendirici:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Parola:
+; Password:
+;
+MSG_BTN_SCAN
+_Tara
+; _Scan
+;
+MSG_BTN_DETAILS
+A_yrýntýlar
+; _Details
+;
+MSG_BTN_DISCONNECT
+Baðlantýyý _kes
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Baðlan
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+Ý_ptal
+; _Cancel
+;
+MSG_NO_DEVICE
+(kablosuz aygýt yok)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+"%s" için parola:
+; Password for "%s":
+;
+MSG_STARTING
+Baþlatýlýyor...
+; Starting...
+;
+MSG_SCANNING
+Taranýyor...
+; Scanning...
+;
+MSG_CONNECTING
+%s aðýna baðlanýlýyor...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Baðlantý kesiliyor...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Önce bir að seçin
+; Select a network first
+;
+MSG_CANCELLED
+Ýptal edildi
+; Cancelled
+;
+MSG_ERR_NOMEM
+Bellek yetersiz\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Ýþ süreci baþlatýlamýyor\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Ýþ süreci baþlamadý\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Uygulama oluþturulamýyor\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Pencere açýlamýyor\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+Að ayarlarýnda kablosuz aygýt belirtilmemiþ
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+DEVS:Networks bulunamadý
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+DEVS:Networks içinde kablosuz aygýt yok
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+%s birim %ld açýlamýyor
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+bir aða
+; a network
+;
+MSG_ST_CONNECTED
+%s aðýna baðlanýldý - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+%s aðýna baðlanýldý - ancak %s için að ayarlarýnda arayüz yok
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+%s aðýna baðlanýldý - AROSTCP çalýþmýyor
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+%s aðýna baðlanýldý - adres bekleniyor
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s kablosuz bir aygýt deðil
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Baðlý deðil
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Bellek yetersiz
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+1 að bulundu
+; 1 network found
+;
+MSG_ST_NETWORKS
+%ld að bulundu
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Tarama baþarýsýz
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager durmuyor
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager baþlamýyor
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+%s aðýna baðlanýldý - ancak %s için arayüz yok
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+%s aðýna baðlanýldý - %s kullanmak için AROSTCP'yi yeniden baþlatýn
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+%s aðýna baðlanýldý - ancak AROSTCP baþlamadý
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+%s için parola yanlýþ mý?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+%s aðýna baðlanýlamadý
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Að seçilmedi
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s menzil dýþýnda
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+%s için parolayý girin
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Wireless.prefs yazýlamýyor
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Baðlantý kesildi
+; Disconnected
+;

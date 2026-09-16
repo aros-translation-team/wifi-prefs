@@ -1,0 +1,276 @@
+## version $VER: WiFi.catalog 1.0 (16.09.2026)
+## language russian
+## codeset 2104
+;
+MSG_DESCRIPTION
+Подключение к беспроводной сети
+; Connect to a wireless network
+;
+MSG_WIN_MAIN
+Беспроводные сети
+; Wireless Networks
+;
+MSG_WIN_DETAILS
+Сведения о подключении
+; Connection Details
+;
+MSG_WIN_PASSWORD
+Пароль
+; Password
+;
+MSG_COL_NETWORK
+Сеть
+; Network
+;
+MSG_COL_SECURITY
+Защита
+; Security
+;
+MSG_COL_SIGNAL
+Сигнал
+; Signal
+;
+MSG_COL_CHANNEL
+Кан.
+; Ch
+;
+MSG_GRP_WIRELESS
+Беспроводная связь
+; Wireless
+;
+MSG_GRP_NETWORK
+Сеть
+; Network
+;
+MSG_LAB_DEVICE
+Устройство:
+; Device:
+;
+MSG_LAB_NETWORK
+Сеть:
+; Network:
+;
+MSG_LAB_SECURITY
+Защита:
+; Security:
+;
+MSG_LAB_AP
+Точка доступа:
+; Access point:
+;
+MSG_LAB_MAC
+Аппаратный адрес:
+; Hardware address:
+;
+MSG_LAB_INTERFACE
+Интерфейс:
+; Interface:
+;
+MSG_LAB_ADDRESS
+IP-адрес:
+; IP address:
+;
+MSG_LAB_NETMASK
+Маска подсети:
+; Subnet mask:
+;
+MSG_LAB_BROADCAST
+Широковещательный:
+; Broadcast:
+;
+MSG_LAB_ROUTER
+Маршрутизатор:
+; Router:
+;
+MSG_LAB_DNS
+DNS:
+; DNS:
+;
+MSG_LAB_PASSWORD
+Пароль:
+; Password:
+;
+MSG_BTN_SCAN
+_Поиск
+; _Scan
+;
+MSG_BTN_DETAILS
+_Сведения
+; _Details
+;
+MSG_BTN_DISCONNECT
+_Отключить
+; Disconnec_t
+;
+MSG_BTN_CONNECT
+_Подключить
+; _Connect
+;
+MSG_BTN_OK
+_OK
+; _OK
+;
+MSG_BTN_CANCEL
+О_тмена
+; _Cancel
+;
+MSG_NO_DEVICE
+(нет беспроводного устройства)
+; (no wireless device)
+;
+MSG_PASSWORD_FOR
+Пароль для "%s":
+; Password for "%s":
+;
+MSG_STARTING
+Запуск...
+; Starting...
+;
+MSG_SCANNING
+Поиск...
+; Scanning...
+;
+MSG_CONNECTING
+Подключение к %s...
+; Connecting to %s...
+;
+MSG_DISCONNECTING
+Отключение...
+; Disconnecting...
+;
+MSG_SELECT_FIRST
+Сначала выберите сеть
+; Select a network first
+;
+MSG_CANCELLED
+Отменено
+; Cancelled
+;
+MSG_ERR_NOMEM
+Недостаточно памяти\n
+; Out of memory\n
+;
+MSG_ERR_WORKER_START
+Не удаётся запустить рабочий процесс\n
+; Cannot start the worker process\n
+;
+MSG_ERR_WORKER_FAILED
+Рабочий процесс не запустился\n
+; Worker process failed to start\n
+;
+MSG_ERR_APPLICATION
+Не удаётся создать приложение\n
+; Cannot create the application\n
+;
+MSG_ERR_WINDOW
+Не удаётся открыть окно\n
+; Cannot open the window\n
+;
+MSG_ST_NO_DEVICE_VAR
+В сетевых настройках не задано беспроводное устройство
+; No wireless device set in the network preferences
+;
+MSG_ST_NO_DEVS_NETWORKS
+DEVS:Networks не найден
+; No DEVS:Networks
+;
+MSG_ST_NO_WIRELESS_DEVICE
+Нет беспроводного устройства в DEVS:Networks
+; No wireless device in DEVS:Networks
+;
+MSG_ST_CANNOT_OPEN
+Не удаётся открыть %s устройство %ld
+; Cannot open %s unit %ld
+;
+MSG_ST_A_NETWORK
+сети
+; a network
+;
+MSG_ST_CONNECTED
+Подключено к %s - %s
+; Connected to %s - %s
+;
+MSG_ST_CONNECTED_NO_IFACE_PREFS
+Подключено к %s - но у %s нет интерфейса в сетевых настройках
+; Connected to %s - but %s has no interface in the network preferences
+;
+MSG_ST_CONNECTED_NO_STACK
+Подключено к %s - AROSTCP не запущен
+; Connected to %s - AROSTCP is not running
+;
+MSG_ST_CONNECTED_WAITING
+Подключено к %s - ожидание адреса
+; Connected to %s - waiting for an address
+;
+MSG_ST_NOT_WIRELESS
+%s не является беспроводным устройством
+; %s is not a wireless device
+;
+MSG_ST_NOT_CONNECTED
+Нет подключения
+; Not connected
+;
+MSG_ST_OUT_OF_MEMORY
+Недостаточно памяти
+; Out of memory
+;
+MSG_ST_ONE_NETWORK
+Найдена 1 сеть
+; 1 network found
+;
+MSG_ST_NETWORKS
+Найдено сетей: %ld
+; %ld networks found
+;
+MSG_ST_SCAN_FAILED
+Поиск не удался
+; Scan failed
+;
+MSG_ST_WM_NO_STOP
+WirelessManager не останавливается
+; WirelessManager will not stop
+;
+MSG_ST_WM_NO_START
+WirelessManager не запускается
+; WirelessManager will not start
+;
+MSG_ST_CONNECTED_NO_IFACE
+Подключено к %s - но у %s нет интерфейса
+; Connected to %s - but %s has no interface
+;
+MSG_ST_RESTART_STACK
+Подключено к %s - перезапустите AROSTCP, чтобы использовать %s
+; Connected to %s - restart AROSTCP to use %s
+;
+MSG_ST_STACK_NO_START
+Подключено к %s - но AROSTCP не запустился
+; Connected to %s - but AROSTCP would not start
+;
+MSG_ST_WRONG_PASSWORD
+Неверный пароль для %s?
+; Wrong password for %s?
+;
+MSG_ST_COULD_NOT_CONNECT
+Не удалось подключиться к %s
+; Could not connect to %s
+;
+MSG_ST_NO_NETWORK_SELECTED
+Сеть не выбрана
+; No network selected
+;
+MSG_ST_NOT_IN_RANGE
+%s вне зоны действия
+; %s is not in range
+;
+MSG_ST_ENTER_PASSWORD
+Введите пароль для %s
+; Enter the password for %s
+;
+MSG_ST_CANNOT_WRITE_PREFS
+Не удаётся записать Wireless.prefs
+; Cannot write Wireless.prefs
+;
+MSG_ST_DISCONNECTED
+Отключено
+; Disconnected
+;

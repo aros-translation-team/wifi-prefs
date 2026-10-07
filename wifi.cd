@@ -205,3 +205,18 @@ Cannot write Wireless.prefs
 MSG_ST_DISCONNECTED (//)
 Disconnected
 ;
+;
+MSG_CHK_AUTORUN (//)
+Connect at startup
+;
+MSG_ST_AUTORUN_ON (//)
+The network starts at boot
+;
+MSG_ST_AUTORUN_OFF (//)
+WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED (//)
+Cannot save the startup settings
+;
+MSG_LAB_SIGNAL (//)
+Signal:

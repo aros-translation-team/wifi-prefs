@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Frakoblet
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Koble til ved oppstart
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Nettverket starter ved oppstart
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+WiFi starter ikke lenger ved oppstart
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Kan ikke lagre oppstartsinnstillingene
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signal:
+; Signal:
+;

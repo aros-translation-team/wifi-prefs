@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Desconectado
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Conectar al arrancar
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+La red se inicia al arrancar
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+La red inalámbrica ya no se inicia al arrancar
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+No se puede guardar la configuración de inicio
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Señal:
+; Signal:
+;

@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Deskonektatuta
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Konektatu abioan
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Sarea abioan abiarazten da
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Hari gabeko sarea ez da jada abioan abiarazten
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Ezin dira abioko ezarpenak gorde
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Seinalea:
+; Signal:
+;

@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Verbinding verbroken
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Verbinden bij opstarten
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Het netwerk start bij het opstarten
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Het draadloze netwerk start niet meer bij het opstarten
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Kan de opstartinstellingen niet opslaan
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signaal:
+; Signal:
+;

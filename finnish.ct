@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Yhteys katkaistu
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Yhdist‰ k‰ynnistyksess‰
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Verkko k‰ynnistyy k‰ynnistyksess‰
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Langaton verkko ei en‰‰ k‰ynnisty k‰ynnistyksess‰
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+K‰ynnistysasetuksia ei voi tallentaa
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signaali:
+; Signal:
+;

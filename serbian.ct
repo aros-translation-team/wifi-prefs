@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Veza je prekinuta
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Pove§i pri pokretanju
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Mre§a se pokre†e pri pokretanju sistema
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Be§iŸna mre§a se viçe ne pokre†e pri pokretanju sistema
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Ne mogu da saŸuvam podeçavanja pokretanja
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signal:
+; Signal:
+;

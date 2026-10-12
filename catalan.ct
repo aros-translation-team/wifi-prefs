@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Desconnectat
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Connecta en arrencar
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+La xarxa s'inicia en arrencar
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+La xarxa sense fils ja no s'inicia en arrencar
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+No es pot desar la configuració d'inici
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Senyal:
+; Signal:
+;

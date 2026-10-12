@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Odspojeno
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Spoji pri pokretanju
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Mre¾a se pokreæe pri pokretanju sustava
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Be¾ièna mre¾a se vi¹e ne pokreæe pri pokretanju sustava
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Ne mogu spremiti postavke pokretanja
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signal:
+; Signal:
+;

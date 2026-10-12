@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Baðlantý kesildi
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Açýlýþta baðlan
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Að açýlýþta baþlar
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Kablosuz að artýk açýlýþta baþlamýyor
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Baþlangýç ayarlarý kaydedilemiyor
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Sinyal:
+; Signal:
+;

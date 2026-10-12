@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Déconnecté
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Connecter au démarrage
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Le réseau démarre avec le système
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Le réseau sans fil ne démarre plus avec le système
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Impossible d'enregistrer les réglages de démarrage
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signal :
+; Signal:
+;

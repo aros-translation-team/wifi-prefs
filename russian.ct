@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Отключено
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Подключаться при загрузке
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Сеть запускается при загрузке
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Беспроводная сеть больше не запускается при загрузке
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Не удаётся сохранить настройки запуска
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Сигнал:
+; Signal:
+;

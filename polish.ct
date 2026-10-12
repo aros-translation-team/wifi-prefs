@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Roz³±czono
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Po³±cz przy starcie
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Sieæ uruchamia siê przy starcie systemu
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Sieæ bezprzewodowa nie uruchamia siê ju¿ przy starcie systemu
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Nie mo¿na zapisaæ ustawieñ startowych
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Sygna³:
+; Signal:
+;

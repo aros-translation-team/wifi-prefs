@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Verbindung getrennt
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Beim Systemstart verbinden
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Das Netzwerk startet beim Systemstart
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Das drahtlose Netzwerk startet nicht mehr beim Systemstart
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Starteinstellungen können nicht gespeichert werden
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signal:
+; Signal:
+;

@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Kapcsolat bontva
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Csatlakozás indításkor
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+A hálózat a rendszerindításkor elindul
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+A vezeték nélküli hálózat már nem indul el a rendszerindításkor
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Az indítási beállítások nem menthetõk
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Jel:
+; Signal:
+;

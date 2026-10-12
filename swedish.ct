@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Frånkopplad
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Anslut vid uppstart
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Nätverket startar vid uppstart
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Det trådlösa nätverket startar inte längre vid uppstart
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Kan inte spara startinställningarna
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signal:
+; Signal:
+;

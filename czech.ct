@@ -274,3 +274,23 @@ MSG_ST_DISCONNECTED
 Odpojeno
 ; Disconnected
 ;
+MSG_CHK_AUTORUN
+Pøipojit pøi spu¹tìní
+; Connect at startup
+;
+MSG_ST_AUTORUN_ON
+Sí» se spou¹tí pøi startu systému
+; The network starts at boot
+;
+MSG_ST_AUTORUN_OFF
+Bezdrátová sí» se ji¾ nespou¹tí pøi startu systému
+; WiFi no longer starts at boot
+;
+MSG_ST_AUTORUN_FAILED
+Nelze ulo¾it nastavení spou¹tìní
+; Cannot save the startup settings
+;
+MSG_LAB_SIGNAL
+Signál:
+; Signal:
+;
